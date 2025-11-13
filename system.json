@@ -9,7 +9,7 @@
   },
   "background": "systems/blades-in-bordera/images/BITD_title.webp",
   "url": "https://github.com/devinlyons/foundryvtt-blades-in-bordera/",
-  "manifest": "https://raw.githubusercontent.com/devinlyons/foundryvtt-blades-in-bordera/master/system.json",
+  "manifest": "https://raw.githubusercontent.com/devinlyons/foundryvtt-blades-in-bordera/refs/heads/master/system.json",
   "download": "https://github.com/devinlyons/foundryvtt-blades-in-bordera/archive/refs/tags/v0.1.1.zip",
   "authors": [
     { "name": "megastruktur" },
